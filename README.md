@@ -67,33 +67,21 @@ var developements = {
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-mondal-2002&theme=react&border=61dafb" alt="zumrudu-anka" />
+      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=uday2101&theme=react&border=61dafb" alt="zumrudu-anka" />
     </a>
       <br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb"/>
+      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=uday2101&show_icons=true&theme=react&border_color=61dafb"/>
     </a>
   </div>  
 </p>
-
-## 
-
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=sudip-mondal-2002&theme=onedark&column=8" alt="zumrudu-anka" />
-    </a>
-</div>
-
 ##
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.facebook.com/sudip16022002" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
-            width="40" /></a>
-    <a href="https://www.linkedin.com/in/sudip-mondal-374a12201/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/uday-agarwal-1b36ab1b3/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
-    <a href="https://www.instagram.com/sudip._.mondal/" target="blank"><img align="center"
+    <a href="https://www.instagram.com/udayy_.21/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
             width="40" /></a>
 </p>
