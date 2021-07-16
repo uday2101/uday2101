@@ -33,7 +33,7 @@ var developements = {
 - 📫 How to reach me, drop an email at **ndc.uday@gmail.com**
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 ## 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudip-mondal-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=uday2101&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ##
 
