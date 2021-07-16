@@ -22,17 +22,15 @@ var developements = {
 ```
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact" />
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday2101&langs_count=20&theme=highcontrast&layout=compact" />
     </a>
 </div>
 
 
 - 👨‍💻 All of my projects are available at
-[https://github.com/sudip-mondal-2002/](https://github.com/sudip-mondal-2002/)
+[https://github.com/uday2101](https://github.com/uday2101)
 
-- 📫 How to reach me, drop an email at **sudipmondal.2002@rediffmail.com**
-- My CV website: https://sudipmondal.tk
-- 5⭐[codechef handle](https://www.codechef.com/users/hehehehhehhe20)
+- 📫 How to reach me, drop an email at **ndc.uday@gmail.com**
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 ## 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudip-mondal-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
